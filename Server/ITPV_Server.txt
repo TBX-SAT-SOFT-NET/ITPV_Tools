@@ -50,6 +50,7 @@ bstream.summerwaves.net
 bstream.universostream.net
 bstream.universostream.org
 bstream2.wondernight.net
+bulkyiptv.com
 bulkyiptv.ddns.net
 ca01.iptv.re
 calcaterraiptv.dyndns.tv
@@ -71,6 +72,7 @@ cobra-iptv.noip.me
 codeiptv.hopto.org
 cp.dmbshare.net
 cuko.selfip.com
+cyberfrost.ddns.net
 d4life.dtdns.net
 deluxetv.ddns.net
 devcon.1dns1.com
@@ -78,6 +80,7 @@ df1-premiere.zapto.org
 diablotv.ddns.me
 digitech-tv.webhop.org
 disperatos4.ddns.net
+dmiptv.noip.me
 dmtn-iptv.com
 dormen.nv102.family
 ds-iptv.dyndns.org
@@ -91,9 +94,11 @@ edge.kmen-ltd.com
 electro-tunis.biz
 elite-stream.dyndns.tv
 emrpiptv.dyndns.org
+en356.edem.tv
 enoezisan.home.dyndns.org
 enz-iptv.dyndns.tv
 errifi.dynu.com
+esiptv.tn
 eurotvteam2.ddns.net
 eutv.co
 evolive-tv.com
@@ -113,6 +118,7 @@ fra1.ddns.net
 free.iptv.re
 free-iptv.ddns.net
 freeiptv-tuga.zapto.org
+frehosting.slyip.com
 friendiptv.mine.nu
 ftvnext.stmteam.org
 full.goldtv.al
@@ -127,6 +133,7 @@ gem-alta-iptv.no-ip.net
 gercekhd.drmen.in
 gercekhd.viplive2.org
 gercekhdd.iptv101.com
+giant-iptv.com
 gigaiptv.pro
 gio-iptv02.zapto.org
 giptv.gemaccs.com
@@ -159,6 +166,7 @@ hometv.digi-mediaclub.fr
 homexx.entrydns.org
 hostmoving.no-ip.ca
 hyper.de1-eu.com
+ilpredatore.dyndns.org
 internext.zapto.org
 ip.cs4ip.com
 ip.kmsat.info
@@ -193,6 +201,7 @@ iptv.iptvthebest.net
 iptv.is-very-nice.org
 iptv.jinbox.nl
 iptv.kicks-ass.net
+Iptv.kodi.ps
 iptv.likescandy.com
 ip-tv.maracana-foot.com
 iptv.nbrz.ru
@@ -249,6 +258,7 @@ iptvpolo.dvrdns.org
 iptvportal.online
 iptvportaltv.selfip.com
 iptvportugal.selfip.com
+iptvridha.ddns.net
 iptvrussia.no-ip.org
 iptvsale.info
 iptvsensation.ns01.biz
@@ -282,6 +292,7 @@ jaqifshanonen1.mine.nu
 ju031.jupiter.fastwebserver.de
 juventus4ever.ddns.net
 kingwebtv.com
+kiptv3.ddns.net
 klmtv.ddns.net
 klmtvi.ddns.net
 koba.no-ip.biz
@@ -299,6 +310,7 @@ look01.vipid.org
 lookmytv.ddns.net
 lucky.lts1.net
 luckyiptv.ddns.net
+lsi.ddns.me
 macedoniathebest.mine.nu
 magicboxiptv.dyndns.tv
 main2.ipfox.tv
@@ -351,6 +363,7 @@ painel.soeu.ws
 panel.websportv.org
 panel2.bnn1panel2-vb.xyz
 panel2.ccpanel2101.us
+panel3home.com
 paulozx-iptv.dyndns.tv
 pciptv.blogdns.com
 pies.ddns.net
@@ -367,6 +380,8 @@ premium-service.club
 pro.panel2cc101.us
 pro.satlover.com
 proffiptv.mine.nu
+pro-unibox.com
+pro-vision.dyndns.pro
 pro-iptv.ddns.net
 proxiiptv.dyndns.tv
 prva.hobby-site.org
@@ -374,6 +389,8 @@ pstv.net.ru
 pstv.no-ip.net
 ptbrvirtual.no-ip.net
 ptvirtual.dnsfor.me
+pv3.fretnow.net
+r3v0lut10n.info
 r3v0lut10n.mine.nu
 raisgeo.dyndns.tv
 rastawxo.biz
@@ -395,10 +412,12 @@ s1.ukhdtv.com
 s1.wssiptv.com
 s2.satsoft.info
 sadatek57.dyndns.tv
+salldiptv.com
 salldiptv.tk
 sasuketv.iptvitalia.eu
 sat.010e.net
 sat.hitech0iptv.com
+sat.shfanch.net
 sat3-iptv.ro-server.org
 satbrothers.dyndns.tv
 sat-iptv.sytesnet.org
@@ -412,6 +431,7 @@ selling-team.net
 sender.dyndns.biz
 serv01.iptvplanet.eu
 serv1.bihip.net
+serv11.umbrellasharing.com
 server.gercekhd.com
 server1.streamiptv.online
 server1.tnt.ba
@@ -419,6 +439,7 @@ server2.nettv.space
 server2.streamiptv.online
 server55.livestreamingcdn.com
 service1.astrovida.tv
+servicio.mxl-iptv.tv
 servprjsmartv.mine.nu
 shar-iptv.dynu.com
 showsatellite.dyndns.tv
@@ -427,6 +448,7 @@ skyeg.dyndns.org
 skyianywhere2-i.akamaihd.net
 skyiptv.ddns.net
 sky-iptv.dyndns.org
+smartiptvspain.mine.nu
 smi-iptv.dyndns.tv
 solofast.ddns.net
 solu-iptv.com
@@ -443,10 +465,12 @@ srvs.topiptv.org
 srvt.topiptv.org
 ss1.maltasat.com
 star.010e.net
+star.proff.co
 star.tviptv.org
 starcccamfull.hopto.org
 stariptv.serveftp.com
 startimes.mine.nu
+stream.ssh101.com
 stream.turksolutions.org
 stream1.ddns.net
 streamer2.dyndns.tv
@@ -467,6 +491,7 @@ superiptvlista.dyndns.tv
 supermariobross.streamiptv.online
 swebstreamer.hopto.me
 swissmedia.tv
+t12v.com
 tabertor.ddns.net
 techtesters.net
 tecsat-iptv.ro-server.org
@@ -481,6 +506,7 @@ topiptv.net
 top-iptv.zapto.org
 tornado-ultra.noip.me
 triptv2-best.dyndns.tv
+tsvipsmart.eu
 turbo-1.dyndns.org
 tuttimuti.dyndns.tv
 tv.iptvs.net
@@ -508,6 +534,7 @@ vecchiasigniora.hopto.org
 vevoplaylist-live.hls.adaptive.level3.net
 vh.goldtv.al
 vip.tuguj.net
+vip.groupiptv.com
 v-iptv.dyndns.org
 viptv.iptv.re
 vision.myvisio.me
@@ -534,6 +561,7 @@ www.sportztv.net
 www.t12v.com
 www.tvonlinestreams.com
 www.x-media.tv
+x-media.tv
 xiptv.dyndns.tv
 xiptv.xcamhd.me
 x-media.mine.nu
@@ -548,25 +576,6 @@ zcontrol.dyndns.org
 zdravahrana.ydns.eu
 zial.dyndns.tv
 zizo-rtmp.ddns.net
-bulkyiptv.com
-cyberfrost.ddns.net
-dmiptv.noip.me
-esiptv.tn
-giant-iptv.com
-iptvridha.ddns.net
-kiptv3.ddns.net
-lsi.ddns.me
-panel3home.com
-pro-unibox.com
-pro-vision.dyndns.pro
-r3v0lut10n.info
-salldiptv.com
-sat.shfanch.net
-smartiptvspain.mine.nu
-t12v.com
-tsvipsmart.eu
-vip.groupiptv.com
-x-media.tv
 22.5555pro.com
 213.186.33.5
 23.237.4.162
