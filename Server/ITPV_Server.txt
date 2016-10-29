@@ -53,6 +53,7 @@ bstream2.wondernight.net
 bulkyiptv.com
 bulkyiptv.ddns.net
 ca01.iptv.re
+cableking-iptv.com
 calcaterraiptv.dyndns.tv
 camerta.com
 cdn.step-tv.com
@@ -332,6 +333,7 @@ msg5.dyndns.tv
 multiuso.no-ip.org
 mydreambox.blogdns.com
 mygameravatar.zapto.org
+myline.selfip.net
 myplace.dnsalias.com
 mytring.al
 naccaro.ddns.net
@@ -340,6 +342,7 @@ nasa-iptv.dyndns.org
 netstream.dyndns.tv
 newone15.ddns.net
 nl.freshvideos.net
+nl.starboxone.com
 nlxiptv.no-ip.biz
 noussa31.no-ip.biz
 ns3023077.ip-51-254-196.eu
@@ -376,6 +379,7 @@ polluzha.dyndns.org
 portal.rapidiptv.com
 portal-server.ddns.net
 premieriptv.noip.me
+premium-ott.com
 premium-service.club
 pro.panel2cc101.us
 pro.satlover.com
@@ -507,6 +511,7 @@ top-iptv.zapto.org
 tornado-ultra.noip.me
 triptv2-best.dyndns.tv
 tsvipsmart.eu
+tunefood.chickenkiller.com
 turbo-1.dyndns.org
 tuttimuti.dyndns.tv
 tv.iptvs.net
